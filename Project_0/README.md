@@ -1,3 +1,49 @@
-# Game "Predict a number"
+# Проект 0.  Угадай число
 
-### This game picks a number from 0 to 100 and asks you to guess it, and tells you if you guessed wrong, it's less or more, and counts the number of tries.
+## Оглавление
+[1. Описание проекта](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Описание-проекта)
+
+[2. Какой кейс решаем?](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Какой-кейс-решаем?)
+
+[3. Краткая информация о данных](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Краткая-информация-о-данных)
+
+[4. Этапы работы над проектом](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Этапы-работы-над-проектом)
+
+[5. Результат](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Результат)
+
+[6. Выводы](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Выводы)
+
+### Описание проекта
+Нужно написать программу, которая угадывает число за минимальное число попыток
+
+[наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
+
+### Какой кейс решаем?
+Нужно написать программу, которая угадывает число за минимальное число попыток
+
+**Условия соревнования:**  
+- Компьютер загадывает целое число от 1 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
+- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
+
+**Метрика качества**     
+Результаты оцениваются по среднему количеству попыток при 1000 повторений
+
+**Что практикуем**     
+Учимся писать хороший код на python
+
+[наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
+
+
+### Краткая информация о данных
+- На вход алгоритма поступает информация о том, больше или меньше загаданное число предсказанного.
+
+[наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
+
+### Этапы работы над проектом
+[наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
+
+### Результат
+[наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
+
+### Выводы
+[наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
