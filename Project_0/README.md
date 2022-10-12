@@ -35,12 +35,12 @@
 
 
 ### Краткая информация о данных
-- На вход алгоритма поступает информация о том, больше или меньше загаданное число предсказанного.
+....
 
 [наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
-- Воспользовался алгоритмом бинарного поиска.
+....
 
 [наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
 
@@ -50,6 +50,6 @@
 [наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
 
 ### Выводы
----
+....
 
 [наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
