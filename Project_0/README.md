@@ -3,7 +3,7 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Краткая-информация-о-данных)
 
@@ -40,10 +40,16 @@
 [наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
+- Воспользовался алгоритмом бинарного поиска.
+
 [наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
 
 ### Результат
+- Алгоритм предсказывает число в среднем за 5 попыток.
+
 [наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
 
 ### Выводы
+---
+
 [наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
