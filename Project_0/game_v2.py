@@ -28,7 +28,7 @@ def smart_predict(number):
             predict_number += find_segment
         #print(f"num {number}   pred {predict_number}    seg {find_segment}")
         # Делим сегмент поиска на 2 с округлением в большую сторону
-        find_segment = int(-1 * find_segment//2 * -1)        
+        find_segment = -1 * find_segment//2 * -1      
     return count
 
 
