@@ -14,5 +14,5 @@ while True:
         print("Number must be greater!")
 
     else:
-        print(f"You guessed the number in {count} attempts! This number is {number}")
+        print(f"You guessed it with {count} attempts! This number is {number}")
         break
