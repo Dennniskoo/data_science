@@ -15,19 +15,19 @@ def smart_predict(number):
     """
     count = 0
     predict_number = 50
-    find_segment = 25  # Сегмент поиска определяет на каком отрезке необходимо искать число и с каждым шагом делится надвое
+    find_segment = 25  # Сегмент поиска определяет середину отрезка где необходимо искать число и с каждым шагом делится надвое
     
     while True:
         count += 1
         if number == predict_number:
             break
-        # Если не угадали, сравниваем и вычитаем либо прибавляем сегмент поиска
+        # Если не угадали, сравниваем и сдигаемся на середину нового отрезка, где находится искомое число
         elif number < predict_number:
             predict_number -= find_segment
         else: 
             predict_number += find_segment
         #print(f"num {number}   pred {predict_number}    seg {find_segment}")
-        # Делим сегмент поиска на 2 с округлением в большую сторону
+        # Делим сегмент на 2 с округлением в большую сторону
         find_segment = -1 * find_segment//2 * -1      
     return count
 
