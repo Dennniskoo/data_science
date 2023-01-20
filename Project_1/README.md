@@ -1,4 +1,4 @@
-# Проект 1.  Все описание внутри Jupiter Notebook
+## Проект 1.  Все описание внутри Jupiter Notebook [Project-1](Project-1.ipynb)
 
 ### Файл с исходным датасетом находится по ссылке
  [Скачать датасет](https://disk.yandex.ru/d/mf-CKFVVvt4t0Q)
