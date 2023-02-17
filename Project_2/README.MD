@@ -1,29 +1,29 @@
 # Проект 2. Анализ данных с использованием SQL.
 
 ## Оглавление
-[1. Описание проекта](README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Dennniskoo/data_science/tree/main/Project_2/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/Dennniskoo/data_science/tree/main/Project_2/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Dennniskoo/data_science/tree/main/Project_2/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Dennniskoo/data_science/tree/main/Project_2/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](README.md#Результат)
+[5. Результат](https://github.com/Dennniskoo/data_science/tree/main/Project_2/README.md#Результат)
 
-[6. Выводы](README.md#Выводы)
+[6. Выводы](https://github.com/Dennniskoo/data_science/tree/main/Project_2/README.md#Выводы)
 
 ### Описание проекта
 
 Представьте, что вы устроились на работу в кадровое агентство, которое подбирает вакансии для IT-специалистов. Ваш первый проект — создание модели машинного обучения, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist. Сначала вам необходимо понять, что из себя представляют данные и насколько они соответствуют целям проекта. В литературе эта часть работы над ML-проектом называется Data Understanding, или анализ данных.
 
-[наверх](README.md#Оглавление)
+[наверх](https://github.com/Dennniskoo/data_science/tree/main/Project_2/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
 Необходимо проанализировать датасет, что из себя представляют данные и насколько они соответствуют целям проекта. Так-же попрактикуемся с выгрузкой данных с помощью SQL запросов.
 
-[наверх](README.md#Оглавление)
+[наверх](https://github.com/Dennniskoo/data_science/tree/main/Project_2/README.md#Оглавление)
 
 
 ### Краткая информация о данных
@@ -36,7 +36,7 @@
 * INDUSTRIES  Таблица-справочник вариантов сфер деятельности работодателей;
 * EMPLOYERS_INDUSTRIES  Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности.
 
-[наверх](README.md#Оглавление)
+[наверх](https://github.com/Dennniskoo/data_science/tree/main/Project_2/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
@@ -47,16 +47,16 @@
 * предметный анализ;
 * визуализация.
 
-[наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
+[наверх](https://github.com/Dennniskoo/data_science/tree/main/Project_2/README.md#Оглавление)
 
 ### Результат
 
 ---
 
-[наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
+[наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_2/README.md#Оглавление)
 
 ### Выводы
 
 Я считаю, что выборка по DS из датасета не достаточно большая (особенно для junior), можно рекомендовать начинающим DS-специалистам вакансии по смежным профессиям, где можно набраться опыта по ключевым навыкам Data Science.
 
-[наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_0/README.md#Оглавление)
+[наверх](https://github.com/Dennniskoo/data_science/blob/main/Project_2/README.md#Оглавление)
